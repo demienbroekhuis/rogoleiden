@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ROGO Leiden</title>
-    <link href="https://rogo-leiden.nl/feed.xml" rel="self" />
-    <link href="https://rogo-leiden.nl" />
+    <link href="https://www.rogo-leiden.nl/feed.xml" rel="self" />
+    <link href="https://www.rogo-leiden.nl" />
     <updated>2026-11-11T21:16:00+01:00</updated>
     <author>
         <name>Opleiders ROGO Leiden</name>
     </author>
-    <id>https://rogo-leiden.nl</id>
+    <id>https://www.rogo-leiden.nl</id>
 
     <entry>
         <title>Welkom op de nieuwe ROGO Leiden website!</title>
         <author>
             <name>Opleiders ROGO Leiden</name>
         </author>
-        <link href="https://rogo-leiden.nl/er-komt-een-nieuwe-website/"/>
-        <id>https://rogo-leiden.nl/er-komt-een-nieuwe-website/</id>
+        <link href="https://www.rogo-leiden.nl/er-komt-een-nieuwe-website/"/>
+        <id>https://www.rogo-leiden.nl/er-komt-een-nieuwe-website/</id>
 
         <updated>2026-11-11T21:16:00+01:00</updated>
             <summary type="html">
@@ -27,7 +27,7 @@
             <![CDATA[
                 <p>Vanaf vanaag online! De nieuwe Rogo Leiden website. Hoewel de inhoud van deze website natuurlijk met zorg is samengesteld, kan het zijn dat er informatie niet klopt of mist. In dat geval horen we dat graag. <a href="mailto:D.Broekhuis@LUMC.nl">E-mail de Webmaster</a></p>
 <p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://rogo-leiden.nl/media/posts/17/ROGO_Leiden_logos_bijgesneden.png" alt="" width="1654" height="110" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-xs.png 640w ,https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-sm.png 768w ,https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-md.png 1024w ,https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-lg.png 1366w ,https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-xl.png 1600w ,https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rogo-leiden.nl/media/posts/17/ROGO_Leiden_logos_bijgesneden.png" alt="" width="1654" height="110" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-xs.png 640w ,https://www.rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-sm.png 768w ,https://www.rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-md.png 1024w ,https://www.rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-lg.png 1366w ,https://www.rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-xl.png 1600w ,https://www.rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-2xl.png 1920w"></figure>
             ]]>
         </content>
     </entry>
@@ -36,8 +36,8 @@
         <author>
             <name>Opleiders ROGO Leiden</name>
         </author>
-        <link href="https://rogo-leiden.nl/rogo-middagen/"/>
-        <id>https://rogo-leiden.nl/rogo-middagen/</id>
+        <link href="https://www.rogo-leiden.nl/rogo-middagen/"/>
+        <id>https://www.rogo-leiden.nl/rogo-middagen/</id>
 
         <updated>2026-09-24T16:26:31+02:00</updated>
             <summary type="html">
@@ -47,7 +47,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Nieuwe ROGO-Middagen data 2026-2027 toegevoegd! <a href="https://rogo-leiden.nl/agenda/">Klik hier</a></p>
+                <p>Nieuwe ROGO-Middagen data 2026-2027 toegevoegd! <a href="https://www.rogo-leiden.nl/agenda/">Klik hier</a></p>
             ]]>
         </content>
     </entry>
