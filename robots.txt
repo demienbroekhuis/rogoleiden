@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://demienbroekhuis.github.io/rogoleiden/sitemap.xml
