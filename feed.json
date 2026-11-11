@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ROGO Leiden",
     "description": "",
-    "home_page_url": "https://demienbroekhuis.github.io/rogoleiden",
-    "feed_url": "https://demienbroekhuis.github.io/rogoleiden/feed.json",
+    "home_page_url": "https://rogo-leiden.nl",
+    "feed_url": "https://rogo-leiden.nl/feed.json",
     "user_comment": "",
-    "icon": "https://demienbroekhuis.github.io/rogoleiden/media/website/ROGO-Leiden-in-blauw.png",
+    "icon": "https://rogo-leiden.nl/media/website/ROGO-Leiden-in-blauw.png",
     "author": {
         "name": "Opleiders ROGO Leiden"
     },
     "items": [
         {
-            "id": "https://demienbroekhuis.github.io/rogoleiden/er-komt-een-nieuwe-website/",
-            "url": "https://demienbroekhuis.github.io/rogoleiden/er-komt-een-nieuwe-website/",
+            "id": "https://rogo-leiden.nl/er-komt-een-nieuwe-website/",
+            "url": "https://rogo-leiden.nl/er-komt-een-nieuwe-website/",
             "title": "Welkom op de nieuwe ROGO Leiden website!",
             "summary": "Vanaf vanaag online! De nieuwe Rogo Leiden website. Hoewel de inhoud van deze website natuurlijk met zorg is samengesteld, kan het zijn dat er informatie niet klopt of mist. In dat geval horen we dat graag. E-mail de Webmaster",
-            "content_html": "<p>Vanaf vanaag online! De nieuwe Rogo Leiden website. Hoewel de inhoud van deze website natuurlijk met zorg is samengesteld, kan het zijn dat er informatie niet klopt of mist. In dat geval horen we dat graag. <a href=\"mailto:D.Broekhuis@LUMC.nl\">E-mail de Webmaster</a></p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://demienbroekhuis.github.io/rogoleiden/media/posts/17/ROGO_Leiden_logos_bijgesneden.png\" alt=\"\" width=\"1654\" height=\"110\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://demienbroekhuis.github.io/rogoleiden/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-xs.png 640w ,https://demienbroekhuis.github.io/rogoleiden/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-sm.png 768w ,https://demienbroekhuis.github.io/rogoleiden/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-md.png 1024w ,https://demienbroekhuis.github.io/rogoleiden/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-lg.png 1366w ,https://demienbroekhuis.github.io/rogoleiden/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-xl.png 1600w ,https://demienbroekhuis.github.io/rogoleiden/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-2xl.png 1920w\"></figure>",
+            "content_html": "<p>Vanaf vanaag online! De nieuwe Rogo Leiden website. Hoewel de inhoud van deze website natuurlijk met zorg is samengesteld, kan het zijn dat er informatie niet klopt of mist. In dat geval horen we dat graag. <a href=\"mailto:D.Broekhuis@LUMC.nl\">E-mail de Webmaster</a></p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://rogo-leiden.nl/media/posts/17/ROGO_Leiden_logos_bijgesneden.png\" alt=\"\" width=\"1654\" height=\"110\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-xs.png 640w ,https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-sm.png 768w ,https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-md.png 1024w ,https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-lg.png 1366w ,https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-xl.png 1600w ,https://rogo-leiden.nl/media/posts/17/responsive/ROGO_Leiden_logos_bijgesneden-2xl.png 1920w\"></figure>",
             "author": {
                 "name": "Opleiders ROGO Leiden"
             },
@@ -25,11 +25,11 @@
             "date_modified": "2026-11-11T21:16:00+01:00"
         },
         {
-            "id": "https://demienbroekhuis.github.io/rogoleiden/rogo-middagen/",
-            "url": "https://demienbroekhuis.github.io/rogoleiden/rogo-middagen/",
+            "id": "https://rogo-leiden.nl/rogo-middagen/",
+            "url": "https://rogo-leiden.nl/rogo-middagen/",
             "title": "Nieuwe data ROGO-Middagen!",
             "summary": "Nieuwe ROGO-Middagen data 2026-2027 toegevoegd! Klik hier",
-            "content_html": "<p>Nieuwe ROGO-Middagen data 2026-2027 toegevoegd! <a href=\"https://demienbroekhuis.github.io/rogoleiden/agenda/\">Klik hier</a></p>",
+            "content_html": "<p>Nieuwe ROGO-Middagen data 2026-2027 toegevoegd! <a href=\"https://rogo-leiden.nl/agenda/\">Klik hier</a></p>",
             "author": {
                 "name": "Opleiders ROGO Leiden"
             },
